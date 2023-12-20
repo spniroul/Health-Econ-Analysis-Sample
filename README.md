@@ -7,7 +7,7 @@ To run this code, the user will need to download PUMS dataset from census.gov. F
 <h3>Packages Used:</h3>
 <ul>
   <li>Tidyverse</li>
-  <li>Binreg</li>
+  <li>Binsreg</li>
   <li>Readxl</li>
   <li>Broom</li>
 </ul>
